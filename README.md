@@ -35,7 +35,7 @@ Change the var parameters section to be exactly as shown below:
 			'debug': true,
 			'username': 'ENTER SIP USERNAME',       // Created in Restcomm Cloud >> Clients >> Add New
 			'password': 'ENTER SIP PASSWORD',                 // Created in Restcomm Cloud >> Clients >> Add New
-			'registrar': 'wss://cloud.restcomm.com/webrtc'.   // Restcomm Cloud Registrar, its the same for all Restcomm Cloud Clients
+			'registrar': 'wss://cloud.restcomm.com/webrtc'   // Restcomm Cloud Registrar, its the same for all Restcomm Cloud Clients
       
    
 		};
